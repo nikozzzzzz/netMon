@@ -41,24 +41,6 @@ Built natively in **Swift**, netMon is designed to be efficient, using minimal s
     ```
     This will compile the app and create a `netMon.dmg` in the project root. Note that without signing credentials, the app will be unsigned and may require right-click -> Open to run.
 
-## Release Process (Maintainers Only)
-
-To create a signed and notarized release, you need an Apple Developer ID and a Notary profile.
-
-1.  **Set Environment Variables**:
-    ```bash
-    export DEV_ID="Developer ID Application: Your Name (TEAMID)"
-    export NOTARY_PROFILE="YourNotaryProfile"
-    ```
-
-2.  **Run the Build Script**:
-    ```bash
-    ./scripts/build_and_package.sh
-    ```
-
-3.  **Distribute**:
-    Upload the generated `netMon.dmg` to GitHub Releases.
-
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
