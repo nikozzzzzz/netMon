@@ -1,0 +1,15 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+/*.xcworkspace
+/netMon.app
+/netMon.dmg
+/dmg_root
+
+# Certificates and Keys (IMPORTANT)
+*.p12
+*.cer
+*.key
+*.csr
+*.pem
