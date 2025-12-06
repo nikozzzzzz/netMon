@@ -1,6 +1,8 @@
 # netMon
 
-**netMon** is a lightweight, open-source macOS status bar application that monitors your network speed in real-time. It displays your current upload and download speeds directly in the menu bar.
+**netMon** is a lightweight, open-source **macOS network monitor** that sits in your status bar (menu bar). It displays real-time **upload and download speeds**, helping you track your internet bandwidth usage at a glance.
+
+Built natively in **Swift**, netMon is designed to be efficient, using minimal system resources while providing accurate network statistics. Whether you are checking your Wi-Fi connection, monitoring background downloads, or debugging network issues, netMon is the simple, free utility you need for your Mac.
 
 ![netMon Screenshot](https://via.placeholder.com/600x100?text=netMon+Status+Bar+Example)
 
