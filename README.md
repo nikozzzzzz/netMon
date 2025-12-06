@@ -4,7 +4,7 @@
 
 Built natively in **Swift**, netMon is designed to be efficient, using minimal system resources while providing accurate network statistics. Whether you are checking your Wi-Fi connection, monitoring background downloads, or debugging network issues, netMon is the simple, free utility you need for your Mac.
 
-![netMon Screenshot](https://via.placeholder.com/600x100?text=netMon+Status+Bar+Example)
+![netMon Screenshot](screenshot.png)
 
 ## Features
 
